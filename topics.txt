@@ -1,0 +1,366 @@
+# Une ligne par vidéo : thème | angle. Publiées dans l'ordre (1 par jour). Ajoute-en à la fin.
+la discipline | le combat contre soi-même
+la constance | le combat contre soi-même
+la patience | le combat contre soi-même
+le courage | le combat contre soi-même
+la concentration | le combat contre soi-même
+la procrastination | le combat contre soi-même
+la confiance en soi | le combat contre soi-même
+la peur d'échouer | le combat contre soi-même
+se lever tôt | le combat contre soi-même
+abandonner trop vite | le combat contre soi-même
+se comparer aux autres | le combat contre soi-même
+la solitude du chemin | le combat contre soi-même
+gérer son énergie | le combat contre soi-même
+les petites habitudes | le combat contre soi-même
+le mental d'acier | le combat contre soi-même
+la résilience | le combat contre soi-même
+l'humilité | le combat contre soi-même
+la gratitude | le combat contre soi-même
+la persévérance | le combat contre soi-même
+l'ambition | le combat contre soi-même
+le temps qui passe | le combat contre soi-même
+sortir de sa zone de confort | le combat contre soi-même
+savoir dire non | le combat contre soi-même
+se pardonner ses erreurs | le combat contre soi-même
+les mauvais jours | le combat contre soi-même
+l'argent et les habitudes | le combat contre soi-même
+bouger chaque jour | le combat contre soi-même
+lire et apprendre | le combat contre soi-même
+les écrans et la distraction | le combat contre soi-même
+le silence et la réflexion | le combat contre soi-même
+les résultats qui tardent | le combat contre soi-même
+bien choisir son entourage | le combat contre soi-même
+la fierté | le combat contre soi-même
+le rejet | le combat contre soi-même
+la jalousie | le combat contre soi-même
+le perfectionnisme | le combat contre soi-même
+la régularité | le combat contre soi-même
+les sacrifices | le combat contre soi-même
+la vision à long terme | le combat contre soi-même
+le sommeil | le combat contre soi-même
+l'alimentation et l'énergie | le combat contre soi-même
+la méditation | le combat contre soi-même
+la motivation qui disparaît | le combat contre soi-même
+le premier pas | le combat contre soi-même
+recommencer à zéro | le combat contre soi-même
+tenir ses promesses | le combat contre soi-même
+l'excuse parfaite | le combat contre soi-même
+la fatigue mentale | le combat contre soi-même
+la peur du jugement | le combat contre soi-même
+le doute | le combat contre soi-même
+la routine du matin | le combat contre soi-même
+les objectifs trop grands | le combat contre soi-même
+la discipline du soir | le combat contre soi-même
+l'échec comme professeur | le combat contre soi-même
+la honte de débuter | le combat contre soi-même
+la valeur du travail invisible | le combat contre soi-même
+le confort qui endort | le combat contre soi-même
+la volonté contre l'envie | le combat contre soi-même
+l'effort quotidien | le combat contre soi-même
+la patience des débuts | le combat contre soi-même
+le courage de dire la vérité | le combat contre soi-même
+la force de continuer seul | le combat contre soi-même
+les regrets | le combat contre soi-même
+le temps perdu | le combat contre soi-même
+l'identité et les habitudes | le combat contre soi-même
+se respecter soi-même | le combat contre soi-même
+la maîtrise de ses émotions | le combat contre soi-même
+la colère | le combat contre soi-même
+l'anxiété avant de se lancer | le combat contre soi-même
+la peur de réussir | le combat contre soi-même
+l'envie de tout abandonner | le combat contre soi-même
+le plateau où rien ne bouge | le combat contre soi-même
+la reprise après une pause | le combat contre soi-même
+la discipline | le premier pas qui change tout
+la constance | le premier pas qui change tout
+la patience | le premier pas qui change tout
+le courage | le premier pas qui change tout
+la concentration | le premier pas qui change tout
+la procrastination | le premier pas qui change tout
+la confiance en soi | le premier pas qui change tout
+la peur d'échouer | le premier pas qui change tout
+se lever tôt | le premier pas qui change tout
+abandonner trop vite | le premier pas qui change tout
+se comparer aux autres | le premier pas qui change tout
+la solitude du chemin | le premier pas qui change tout
+gérer son énergie | le premier pas qui change tout
+les petites habitudes | le premier pas qui change tout
+le mental d'acier | le premier pas qui change tout
+la résilience | le premier pas qui change tout
+l'humilité | le premier pas qui change tout
+la gratitude | le premier pas qui change tout
+la persévérance | le premier pas qui change tout
+l'ambition | le premier pas qui change tout
+le temps qui passe | le premier pas qui change tout
+sortir de sa zone de confort | le premier pas qui change tout
+savoir dire non | le premier pas qui change tout
+se pardonner ses erreurs | le premier pas qui change tout
+les mauvais jours | le premier pas qui change tout
+l'argent et les habitudes | le premier pas qui change tout
+bouger chaque jour | le premier pas qui change tout
+lire et apprendre | le premier pas qui change tout
+les écrans et la distraction | le premier pas qui change tout
+le silence et la réflexion | le premier pas qui change tout
+les résultats qui tardent | le premier pas qui change tout
+bien choisir son entourage | le premier pas qui change tout
+la fierté | le premier pas qui change tout
+le rejet | le premier pas qui change tout
+la jalousie | le premier pas qui change tout
+le perfectionnisme | le premier pas qui change tout
+la régularité | le premier pas qui change tout
+les sacrifices | le premier pas qui change tout
+la vision à long terme | le premier pas qui change tout
+le sommeil | le premier pas qui change tout
+l'alimentation et l'énergie | le premier pas qui change tout
+la méditation | le premier pas qui change tout
+la motivation qui disparaît | le premier pas qui change tout
+le premier pas | le premier pas qui change tout
+recommencer à zéro | le premier pas qui change tout
+tenir ses promesses | le premier pas qui change tout
+l'excuse parfaite | le premier pas qui change tout
+la fatigue mentale | le premier pas qui change tout
+la peur du jugement | le premier pas qui change tout
+le doute | le premier pas qui change tout
+la routine du matin | le premier pas qui change tout
+les objectifs trop grands | le premier pas qui change tout
+la discipline du soir | le premier pas qui change tout
+l'échec comme professeur | le premier pas qui change tout
+la honte de débuter | le premier pas qui change tout
+la valeur du travail invisible | le premier pas qui change tout
+le confort qui endort | le premier pas qui change tout
+la volonté contre l'envie | le premier pas qui change tout
+l'effort quotidien | le premier pas qui change tout
+la patience des débuts | le premier pas qui change tout
+le courage de dire la vérité | le premier pas qui change tout
+la force de continuer seul | le premier pas qui change tout
+les regrets | le premier pas qui change tout
+le temps perdu | le premier pas qui change tout
+l'identité et les habitudes | le premier pas qui change tout
+se respecter soi-même | le premier pas qui change tout
+la maîtrise de ses émotions | le premier pas qui change tout
+la colère | le premier pas qui change tout
+l'anxiété avant de se lancer | le premier pas qui change tout
+la peur de réussir | le premier pas qui change tout
+l'envie de tout abandonner | le premier pas qui change tout
+le plateau où rien ne bouge | le premier pas qui change tout
+la reprise après une pause | le premier pas qui change tout
+la discipline | quand on veut tout arrêter
+la constance | quand on veut tout arrêter
+la patience | quand on veut tout arrêter
+le courage | quand on veut tout arrêter
+la concentration | quand on veut tout arrêter
+la procrastination | quand on veut tout arrêter
+la confiance en soi | quand on veut tout arrêter
+la peur d'échouer | quand on veut tout arrêter
+se lever tôt | quand on veut tout arrêter
+abandonner trop vite | quand on veut tout arrêter
+se comparer aux autres | quand on veut tout arrêter
+la solitude du chemin | quand on veut tout arrêter
+gérer son énergie | quand on veut tout arrêter
+les petites habitudes | quand on veut tout arrêter
+le mental d'acier | quand on veut tout arrêter
+la résilience | quand on veut tout arrêter
+l'humilité | quand on veut tout arrêter
+la gratitude | quand on veut tout arrêter
+la persévérance | quand on veut tout arrêter
+l'ambition | quand on veut tout arrêter
+le temps qui passe | quand on veut tout arrêter
+sortir de sa zone de confort | quand on veut tout arrêter
+savoir dire non | quand on veut tout arrêter
+se pardonner ses erreurs | quand on veut tout arrêter
+les mauvais jours | quand on veut tout arrêter
+l'argent et les habitudes | quand on veut tout arrêter
+bouger chaque jour | quand on veut tout arrêter
+lire et apprendre | quand on veut tout arrêter
+les écrans et la distraction | quand on veut tout arrêter
+le silence et la réflexion | quand on veut tout arrêter
+les résultats qui tardent | quand on veut tout arrêter
+bien choisir son entourage | quand on veut tout arrêter
+la fierté | quand on veut tout arrêter
+le rejet | quand on veut tout arrêter
+la jalousie | quand on veut tout arrêter
+le perfectionnisme | quand on veut tout arrêter
+la régularité | quand on veut tout arrêter
+les sacrifices | quand on veut tout arrêter
+la vision à long terme | quand on veut tout arrêter
+le sommeil | quand on veut tout arrêter
+l'alimentation et l'énergie | quand on veut tout arrêter
+la méditation | quand on veut tout arrêter
+la motivation qui disparaît | quand on veut tout arrêter
+le premier pas | quand on veut tout arrêter
+recommencer à zéro | quand on veut tout arrêter
+tenir ses promesses | quand on veut tout arrêter
+l'excuse parfaite | quand on veut tout arrêter
+la fatigue mentale | quand on veut tout arrêter
+la peur du jugement | quand on veut tout arrêter
+le doute | quand on veut tout arrêter
+la routine du matin | quand on veut tout arrêter
+les objectifs trop grands | quand on veut tout arrêter
+la discipline du soir | quand on veut tout arrêter
+l'échec comme professeur | quand on veut tout arrêter
+la honte de débuter | quand on veut tout arrêter
+la valeur du travail invisible | quand on veut tout arrêter
+le confort qui endort | quand on veut tout arrêter
+la volonté contre l'envie | quand on veut tout arrêter
+l'effort quotidien | quand on veut tout arrêter
+la patience des débuts | quand on veut tout arrêter
+le courage de dire la vérité | quand on veut tout arrêter
+la force de continuer seul | quand on veut tout arrêter
+les regrets | quand on veut tout arrêter
+le temps perdu | quand on veut tout arrêter
+l'identité et les habitudes | quand on veut tout arrêter
+se respecter soi-même | quand on veut tout arrêter
+la maîtrise de ses émotions | quand on veut tout arrêter
+la colère | quand on veut tout arrêter
+l'anxiété avant de se lancer | quand on veut tout arrêter
+la peur de réussir | quand on veut tout arrêter
+l'envie de tout abandonner | quand on veut tout arrêter
+le plateau où rien ne bouge | quand on veut tout arrêter
+la reprise après une pause | quand on veut tout arrêter
+la discipline | ce que personne ne voit
+la constance | ce que personne ne voit
+la patience | ce que personne ne voit
+le courage | ce que personne ne voit
+la concentration | ce que personne ne voit
+la procrastination | ce que personne ne voit
+la confiance en soi | ce que personne ne voit
+la peur d'échouer | ce que personne ne voit
+se lever tôt | ce que personne ne voit
+abandonner trop vite | ce que personne ne voit
+se comparer aux autres | ce que personne ne voit
+la solitude du chemin | ce que personne ne voit
+gérer son énergie | ce que personne ne voit
+les petites habitudes | ce que personne ne voit
+le mental d'acier | ce que personne ne voit
+la résilience | ce que personne ne voit
+l'humilité | ce que personne ne voit
+la gratitude | ce que personne ne voit
+la persévérance | ce que personne ne voit
+l'ambition | ce que personne ne voit
+le temps qui passe | ce que personne ne voit
+sortir de sa zone de confort | ce que personne ne voit
+savoir dire non | ce que personne ne voit
+se pardonner ses erreurs | ce que personne ne voit
+les mauvais jours | ce que personne ne voit
+l'argent et les habitudes | ce que personne ne voit
+bouger chaque jour | ce que personne ne voit
+lire et apprendre | ce que personne ne voit
+les écrans et la distraction | ce que personne ne voit
+le silence et la réflexion | ce que personne ne voit
+les résultats qui tardent | ce que personne ne voit
+bien choisir son entourage | ce que personne ne voit
+la fierté | ce que personne ne voit
+le rejet | ce que personne ne voit
+la jalousie | ce que personne ne voit
+le perfectionnisme | ce que personne ne voit
+la régularité | ce que personne ne voit
+les sacrifices | ce que personne ne voit
+la vision à long terme | ce que personne ne voit
+le sommeil | ce que personne ne voit
+l'alimentation et l'énergie | ce que personne ne voit
+la méditation | ce que personne ne voit
+la motivation qui disparaît | ce que personne ne voit
+le premier pas | ce que personne ne voit
+recommencer à zéro | ce que personne ne voit
+tenir ses promesses | ce que personne ne voit
+l'excuse parfaite | ce que personne ne voit
+la fatigue mentale | ce que personne ne voit
+la peur du jugement | ce que personne ne voit
+le doute | ce que personne ne voit
+la routine du matin | ce que personne ne voit
+les objectifs trop grands | ce que personne ne voit
+la discipline du soir | ce que personne ne voit
+l'échec comme professeur | ce que personne ne voit
+la honte de débuter | ce que personne ne voit
+la valeur du travail invisible | ce que personne ne voit
+le confort qui endort | ce que personne ne voit
+la volonté contre l'envie | ce que personne ne voit
+l'effort quotidien | ce que personne ne voit
+la patience des débuts | ce que personne ne voit
+le courage de dire la vérité | ce que personne ne voit
+la force de continuer seul | ce que personne ne voit
+les regrets | ce que personne ne voit
+le temps perdu | ce que personne ne voit
+l'identité et les habitudes | ce que personne ne voit
+se respecter soi-même | ce que personne ne voit
+la maîtrise de ses émotions | ce que personne ne voit
+la colère | ce que personne ne voit
+l'anxiété avant de se lancer | ce que personne ne voit
+la peur de réussir | ce que personne ne voit
+l'envie de tout abandonner | ce que personne ne voit
+le plateau où rien ne bouge | ce que personne ne voit
+la reprise après une pause | ce que personne ne voit
+la discipline | le jour où tout bascule
+la constance | le jour où tout bascule
+la patience | le jour où tout bascule
+le courage | le jour où tout bascule
+la concentration | le jour où tout bascule
+la procrastination | le jour où tout bascule
+la confiance en soi | le jour où tout bascule
+la peur d'échouer | le jour où tout bascule
+se lever tôt | le jour où tout bascule
+abandonner trop vite | le jour où tout bascule
+se comparer aux autres | le jour où tout bascule
+la solitude du chemin | le jour où tout bascule
+gérer son énergie | le jour où tout bascule
+les petites habitudes | le jour où tout bascule
+le mental d'acier | le jour où tout bascule
+la résilience | le jour où tout bascule
+l'humilité | le jour où tout bascule
+la gratitude | le jour où tout bascule
+la persévérance | le jour où tout bascule
+l'ambition | le jour où tout bascule
+le temps qui passe | le jour où tout bascule
+sortir de sa zone de confort | le jour où tout bascule
+savoir dire non | le jour où tout bascule
+se pardonner ses erreurs | le jour où tout bascule
+les mauvais jours | le jour où tout bascule
+l'argent et les habitudes | le jour où tout bascule
+bouger chaque jour | le jour où tout bascule
+lire et apprendre | le jour où tout bascule
+les écrans et la distraction | le jour où tout bascule
+le silence et la réflexion | le jour où tout bascule
+les résultats qui tardent | le jour où tout bascule
+bien choisir son entourage | le jour où tout bascule
+la fierté | le jour où tout bascule
+le rejet | le jour où tout bascule
+la jalousie | le jour où tout bascule
+le perfectionnisme | le jour où tout bascule
+la régularité | le jour où tout bascule
+les sacrifices | le jour où tout bascule
+la vision à long terme | le jour où tout bascule
+le sommeil | le jour où tout bascule
+l'alimentation et l'énergie | le jour où tout bascule
+la méditation | le jour où tout bascule
+la motivation qui disparaît | le jour où tout bascule
+le premier pas | le jour où tout bascule
+recommencer à zéro | le jour où tout bascule
+tenir ses promesses | le jour où tout bascule
+l'excuse parfaite | le jour où tout bascule
+la fatigue mentale | le jour où tout bascule
+la peur du jugement | le jour où tout bascule
+le doute | le jour où tout bascule
+la routine du matin | le jour où tout bascule
+les objectifs trop grands | le jour où tout bascule
+la discipline du soir | le jour où tout bascule
+l'échec comme professeur | le jour où tout bascule
+la honte de débuter | le jour où tout bascule
+la valeur du travail invisible | le jour où tout bascule
+le confort qui endort | le jour où tout bascule
+la volonté contre l'envie | le jour où tout bascule
+l'effort quotidien | le jour où tout bascule
+la patience des débuts | le jour où tout bascule
+le courage de dire la vérité | le jour où tout bascule
+la force de continuer seul | le jour où tout bascule
+les regrets | le jour où tout bascule
+le temps perdu | le jour où tout bascule
+l'identité et les habitudes | le jour où tout bascule
+se respecter soi-même | le jour où tout bascule
+la maîtrise de ses émotions | le jour où tout bascule
+la colère | le jour où tout bascule
+l'anxiété avant de se lancer | le jour où tout bascule
+la peur de réussir | le jour où tout bascule
+l'envie de tout abandonner | le jour où tout bascule
+le plateau où rien ne bouge | le jour où tout bascule
+la reprise après une pause | le jour où tout bascule

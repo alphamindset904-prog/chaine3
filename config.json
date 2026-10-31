@@ -1,0 +1,11 @@
+{
+  "channel_name": "Jour Un",
+  "voice": "fr-FR-HenriNeural",
+  "voice_rate": "-3%",
+  "llm_models": ["openai/gpt-4.1-mini", "openai/gpt-4o-mini"],
+  "gemini_models": ["gemini-flash-latest", "gemini-flash-lite-latest"],
+  "pause_between_blocks": 0.5,
+  "category_id": "27",
+  "hashtags": ["#motivation", "#discipline", "#développementpersonnel"],
+  "font_bold": ""
+}
