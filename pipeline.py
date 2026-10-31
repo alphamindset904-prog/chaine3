@@ -83,7 +83,7 @@ def llm_json(system, user, cfg):
     if not providers:
         raise RuntimeError("Aucun accès à un modèle d'écriture (GITHUB_TOKEN et GEMINI_API_KEY absents).")
     last = None
-    for label, url, headers, model in providers:
+    for pi, (label, url, headers, model) in enumerate(providers):
         is_gemini = label == "Gemini"
         max_tok = 8192 if is_gemini else 3500
         effort = is_gemini  # limite la « réflexion » interne qui consomme des jetons
@@ -101,6 +101,9 @@ def llm_json(system, user, cfg):
             except requests.RequestException as e:
                 last = f"{label} {model} : erreur réseau {str(e)[:150]}"
                 log(last)
+                break
+            if r.status_code == 429 and pi < len(providers) - 1:
+                log(f"{label} {model} : limite atteinte, essai du modèle suivant")
                 break
             if r.status_code == 429:
                 wait = int(r.headers.get("Retry-After", "30") or 30)
@@ -166,7 +169,7 @@ TRAME (adapte-la, ne la recopie pas mot à mot) :
 5. Sommet / lever de soleil (pose "summit"), puis dernière scène = carte titre (pose "title").
 
 CONTRAINTES :
-- 13 à 16 scènes. Narration totale : 340 à 400 mots (chaque scène : 1 à 3 phrases courtes, 10 à 40 mots).
+- 14 à 16 scènes. Narration totale : 360 à 420 mots, c'est impératif (chaque scène : 2 à 3 phrases, 20 à 35 mots).
 - Varie les poses : au moins 6 poses différentes parmi sleep, sit, hunch, stand, walk, run, punch, climb, work, summit.
 - "pose" autorisées : sleep, sit, hunch, stand, walk, run, punch, climb, work, summit, title.
   (Le décor est choisi automatiquement pour sleep/sit/work/punch/climb/summit/run/walk. Pour stand et hunch,
@@ -221,20 +224,23 @@ def normalize(data):
 
 def generate_script(theme, angle, index, cfg):
     situation = SITUATIONS[index % len(SITUATIONS)]
-    best = None
-    for attempt in range(3):
-        data = llm_json(SYSTEM_PROMPT, USER_PROMPT.format(theme=theme, angle=angle, situation=situation), cfg)
+    base = USER_PROMPT.format(theme=theme, angle=angle, situation=situation)
+    feedback, best = "", None
+    for attempt in range(4):
+        data = llm_json(SYSTEM_PROMPT, base + feedback, cfg)
         scenes = normalize(data)
         words = sum(len(s["narration"].split()) for s in scenes)
         log(f"Script : {len(scenes)} scènes, {words} mots")
         if len(scenes) >= 8 and data.get("title"):
             data["scenes"] = scenes
-            if best is None or abs(words - 370) < abs(best[1] - 370):
+            if best is None or abs(words - 360) < abs(best[1] - 360):
                 best = (data, words)
-            if 290 <= words <= 460:
+            if 300 <= words <= 470:
                 break
+            feedback = (f"\n\nATTENTION : ta version précédente ne faisait que {words} mots de narration. "
+                        "Il en faut entre 360 et 420 : développe chaque scène (3 phrases de 20 à 35 mots).")
     if best is None:
-        raise RuntimeError("Script inutilisable après 3 essais.")
+        raise RuntimeError("Script inutilisable après 4 essais.")
     return best[0]
 
 
