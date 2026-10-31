@@ -1,0 +1,93 @@
+name: Publier le Short (tous les 2 jours)
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # vérifié chaque jour à 10:00 UTC ; publie seulement si le dernier Short date d'au moins 2 jours
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Test : fabrique le Short SANS le publier"
+        type: boolean
+        default: true
+      topic:
+        description: "Sujet imposé (optionnel, format : thème | forme)"
+        required: false
+      privacy:
+        description: "Visibilité du Short publié"
+        type: choice
+        options: [public, unlisted, private]
+        default: public
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: publish-shorts
+  cancel-in-progress: false
+
+jobs:
+  short:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+      PRIVACY: ${{ inputs.privacy || 'public' }}
+      TOPIC_OVERRIDE: ${{ inputs.topic }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Vérifier si un Short est dû
+        id: gate
+        run: |
+          last=$(tail -n1 shorts_published.txt 2>/dev/null | cut -d'|' -f1 | tr -d ' ')
+          if [ -n "$last" ] && [ "${{ github.event_name }}" = "schedule" ]; then
+            diff=$(( ( $(date -u +%s) - $(date -u -d "$last" +%s) ) / 86400 ))
+            if [ "$diff" -lt 2 ]; then
+              echo "Dernier Short : $last (il y a $diff jour(s)) -> rien à faire aujourd'hui."
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.skip != 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer ffmpeg et polices
+        if: steps.gate.outputs.skip != 'true'
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+
+      - name: Installer les dépendances Python
+        if: steps.gate.outputs.skip != 'true'
+        run: pip install -r requirements.txt
+
+      - name: Fabriquer et publier le Short
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MODELS_TOKEN: ${{ secrets.MODELS_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          YT3_CLIENT_ID: ${{ secrets.YT3_CLIENT_ID }}
+          YT3_CLIENT_SECRET: ${{ secrets.YT3_CLIENT_SECRET }}
+          YT3_REFRESH_TOKEN: ${{ secrets.YT3_REFRESH_TOKEN }}
+        run: python shorts_pipeline.py
+
+      - name: Garder le Short de test
+        if: ${{ steps.gate.outputs.skip != 'true' && env.DRY_RUN == 'true' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: short-test
+          path: out/
+          retention-days: 3
+
+      - name: Marquer le thème comme publié
+        if: ${{ steps.gate.outputs.skip != 'true' && env.DRY_RUN != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add shorts_published.txt
+          git diff --cached --quiet || (git commit -m "Short publié" && git pull --rebase origin main && git push)
