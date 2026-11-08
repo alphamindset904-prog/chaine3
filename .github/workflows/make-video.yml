@@ -1,0 +1,73 @@
+name: Make video
+
+on:
+  workflow_dispatch:
+    inputs:
+      story:
+        description: "Nom du dossier dans stories/ (ex: demo)"
+        required: true
+        default: "demo"
+      quality:
+        description: "test = 3 secondes pour verifier / rapide = video complete sans flou / complete = avec flou (tres long)"
+        type: choice
+        default: "test"
+        options: [test, rapide, complete]
+      publish:
+        description: "Envoyer sur YouTube apres le rendu"
+        type: boolean
+        default: false
+      publish_at:
+        description: "Date de mise en ligne en UTC, ex 2026-11-15T18:00:00Z (vide = reste prive)"
+        required: false
+        default: ""
+
+jobs:
+  make:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Decompresser factory.zip
+        run: |
+          test -f factory.zip || { echo "factory.zip manquant a la racine du depot"; exit 1; }
+          unzip -oq factory.zip
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les outils systeme
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libnss3 libdbus-1-3 libatk1.0-0 libgbm-dev libxkbcommon-dev libxfixes3 libxcomposite1 libxdamage1 libxrandr2 libcups2 libatk-bridge2.0-0 libpango-1.0-0 libcairo2
+          sudo apt-get install -y libasound2t64 || sudo apt-get install -y libasound2
+          pip install piper-tts
+
+      - name: Fabriquer la video
+        env:
+          STORY: ${{ inputs.story }}
+          MODE: ${{ inputs.quality }}
+        run: bash scripts/build.sh "$STORY" "$MODE"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: video-${{ inputs.story }}-${{ inputs.quality }}
+          path: work/${{ inputs.story }}/final.mp4
+
+      - name: Publier sur YouTube (prive)
+        if: ${{ inputs.publish && inputs.quality != 'test' }}
+        env:
+          STORY: ${{ inputs.story }}
+          PUBLISH_AT: ${{ inputs.publish_at }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          pip install google-api-python-client google-auth
+          python3 scripts/youtube_upload.py "work/$STORY/final.mp4" "stories/$STORY/meta.json" "$PUBLISH_AT"
+
