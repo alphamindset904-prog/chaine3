@@ -4,14 +4,14 @@ on:
   workflow_dispatch:
     inputs:
       story:
-        description: "Nom du dossier dans stories/ (ex: demo)"
+        description: "Nom du dossier dans stories/ (emus = la guerre des emeus, en francais)"
         required: true
-        default: "demo"
+        default: "emus"
       quality:
-        description: "test = 3 secondes pour verifier / rapide = video complete sans flou / complete = avec flou (tres long)"
+        description: "rapide = VIDEO COMPLETE (environ 1 min) sans flou / test = seulement 3 secondes pour verifier / complete = avec flou (tres long)"
         type: choice
-        default: "test"
-        options: [test, rapide, complete]
+        default: "rapide"
+        options: [rapide, test, complete]
       publish:
         description: "Envoyer sur YouTube apres le rendu"
         type: boolean
