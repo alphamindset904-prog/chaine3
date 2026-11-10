@@ -41,6 +41,8 @@ jobs:
         env:
           STORY: ${{ inputs.story }}
         run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
           pip install piper-tts
           bash scripts/prep.sh "$STORY"
       - uses: actions/upload-artifact@v4
@@ -103,6 +105,10 @@ jobs:
           pattern: part-*
           merge-multiple: true
           path: work/${{ inputs.story }}/out
+      - name: Installer ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
       - name: Assembler la video finale
         env:
           STORY: ${{ inputs.story }}
