@@ -1,1 +1,2 @@
 # Historique des énigmes publiées (rempli automatiquement). Ne pas modifier.
+2026-11-16 | le paradoxe de Monty Hall | trois portes et un présentateur
