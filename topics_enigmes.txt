@@ -1,0 +1,368 @@
+# Une ligne par Short « Énigmes » : thème | forme. 365 sujets = 1 par jour pendant un an, publiés dans l'ordre.
+# Les domaines sont mélangés (probabilités, maths, logique, philosophie, physique, jeux, psychologie, énigmes, informatique).
+# Les sujets marqués (débattu) sont présentés avec les deux camps. Ajoute-en à la fin.
+le paradoxe de Monty Hall | trois portes et un présentateur
+le paradoxe de la boîte de Bertrand | trois boîtes, deux pièces
+le paradoxe de Banach-Tarski | une boule qui devient deux boules
+le paradoxe du crocodile | l'enfant et le crocodile
+le paradoxe d'Olbers | pourquoi la nuit est noire
+le dilemme du voyageur | deux valises, une échelle de prix
+la tâche de sélection de Wason | quatre cartes, une seule bonne réponse
+le loup, la chèvre et le chou | traverser la rivière
+la compression sans perte | pourquoi on ne peut pas tout compresser
+la panique bancaire | une banque qui tombe parce qu'on le craint
+les infinis de Cantor | il y a plusieurs tailles d'infini
+le paradoxe EPR | l'intrication et l'action fantôme
+le paradoxe de Bertrand | une corde au hasard, trois réponses
+la politique du garçon | s'arrêter au premier garçon change-t-il la proportion
+le paradoxe de Newcomb | l'oracle et les deux boîtes
+le paradoxe d'Épiménide | un Crétois dit que tous les Crétois mentent
+le concours de beauté de Keynes | deviner les deux tiers de la moyenne
+les deux gardiens, l'honnête et le menteur | une seule question
+l'effet d'ancrage | une roue truquée qui change tes réponses
+le paradoxe de Galilée | autant de carrés que de nombres
+la perte d'information des trous noirs | l'information qui disparaît
+le garçon né un mardi | un détail qui change la probabilité
+les deux dés et le sept | pourquoi sept sort le plus souvent
+le paradoxe de Russell | l'ensemble de tous les ensembles
+la bouteille et son bouchon | le prix qui piège l'intuition
+le paradoxe de Protagoras | un procès impossible
+le jeu de l'ultimatum | refuser de l'argent gratuit
+les trois interrupteurs et l'ampoule | trouver le bon
+le problème de la maladie asiatique | le cadrage change le choix
+la suite de Collatz | un problème simple que personne ne sait résoudre
+l'échelle dans la grange | la relativité de la longueur
+le paradoxe de l'inspection | pourquoi le bus semble toujours long à venir
+dix piles de suite | une série qui paraît truquée et ne l'est pas
+le paradoxe des anniversaires | combien de personnes pour 50 % de chances
+l'âne de Buridan | deux bottes de foin identiques
+la feuille pliée 42 fois | l'épaisseur qui atteint la Lune
+le générateur aléatoire | un ordinateur peut-il tirer au hasard
+le vaisseau de Bell | une corde entre deux fusées
+le jeu du dictateur | partager sans y être forcé
+le problème des neuf points | les relier en quatre traits
+la régression vers la moyenne | pourquoi les félicitations semblent inutiles
+le paradoxe de la taille des classes | pourquoi les classes semblent toujours pleines
+le gorille invisible | l'expérience de Simons et Chabris
+les grains de riz sur l'échiquier | la croissance exponentielle
+le paradoxe des deux enveloppes | faut-il changer d'enveloppe
+le cerveau dans une cuve | peux-tu prouver que tu ne rêves pas
+le paradoxe de d'Alembert | un corps sans traînée
+le nénuphar qui double chaque jour | quand le lac est-il à moitié couvert
+la loi de Benford | pourquoi les nombres commencent souvent par 1
+le problème du rendez-vous | deux personnes, une heure, quinze minutes d'attente
+la tragédie des biens communs | le pâturage partagé
+les deux sabliers | mesurer neuf minutes
+le paradoxe des deux enfants | une question de probabilités qui divise
+la chambre chinoise de Searle | comprendre ou manipuler des symboles
+l'aveuglement au changement | on ne voit pas la personne changer
+la série harmonique | une somme qui diverge très lentement
+l'eau chaude qui gèle plus vite | l'effet Mpemba (débattu)
+le paradoxe de Berkson | pourquoi les beaux semblent désagréables
+une fausse preuve que 1 égale 2 | la division par zéro cachée
+les livres empilés au-delà du bord | un surplomb sans limite
+le paradoxe de l'épargne | tout le monde épargne et l'économie ralentit (débattu)
+les huit pièces et la balance | trouver la fausse en deux pesées
+le survivant et les avions de Wald | les blindages qu'il ne fallait pas mettre
+le dilemme du tramway | sacrifier un pour sauver cinq
+le marteau et la plume sur la Lune | tous les corps tombent pareil
+l'illusion de Müller-Lyer | deux lignes égales
+la dichotomie de Zénon | marcher jusqu'à la porte
+l'erreur du procureur | quand une probabilité est retournée à l'envers
+la série de Grandi | 1 - 1 + 1 - 1 + ... vaut combien
+la quine | un programme qui s'affiche lui-même
+le paradoxe de Simpson | quand la tendance s'inverse
+la téléportation de Parfit | es-tu encore toi
+le seau de Newton | l'eau qui monte sur les bords
+le triangle de Penrose | un objet impossible
+le paradoxe de l'eau et du diamant | l'eau vaut moins que le diamant
+les cent portes et les cent élèves | quelles portes restent ouvertes
+l'erreur du joueur | le rouge est sorti dix fois de suite
+le triangle de Pascal | des motifs cachés dans les nombres
+l'illusion de l'échiquier d'Adelson | les cases A et B ont la même couleur
+le problème des quatre couleurs | une carte, quatre couleurs
+le tonneau de Pascal | quelques litres qui font éclater un tonneau
+le paradoxe du faux positif | un test fiable à 99 % qui se trompe souvent
+le chat de Schrödinger | mort et vivant à la fois
+le paradoxe de Giffen | quand le prix monte, on en achète plus
+les douze pièces et la balance | trois pesées
+le problème des secrétaires | la règle des 37 % pour choisir
+les feuilles de thé d'Einstein | pourquoi elles vont au centre de la tasse
+les ponts de Königsberg | traverser sept ponts une seule fois
+le démon de Maxwell | trier les molécules
+l'effet Stroop | lire la couleur du mot
+le paradoxe de Saint-Pétersbourg | un pari à gain infini que personne ne veut
+l'ami de Wigner | une expérience dans une pièce fermée
+le cube de Rupert | un cube qui passe par un trou plus petit
+le problème du collectionneur de coupons | combien d'achats pour tout avoir
+l'effet Djanibekov | l'écrou qui se retourne en apesanteur
+le paradoxe de Jevons | une machine plus efficace consomme plus
+les trois dieux les plus durs | Vrai, Faux et Aléatoire
+la conjecture de Goldbach | un problème ouvert depuis 1742
+le paradoxe de Loschmidt | pourquoi le temps a une flèche
+l'hôtel de Hilbert | un hôtel plein qui accepte encore des clients
+le paradoxe de Fitch | si tout est connaissable, tout est connu
+l'effet McGurk | quand les yeux changent ce qu'on entend
+les dés non transitifs | trois dés, chacun bat le suivant
+le paradoxe de Bertrand en économie | deux boutiques et un prix
+le nombre de Graham | un nombre qui ne tient pas dans l'univers
+le jeu de la vie de Conway | trois règles, tout un univers
+le paradoxe du Soleil jeune et faible | une Terre sans glace sous un Soleil plus froid
+le paradoxe d'Easterlin | plus riche, pas plus heureux (débattu)
+l'île aux yeux bleus | un jour sans savoir sa couleur
+la longueur de la côte de Bretagne | le paradoxe de la côte
+Achille et la tortue | pourquoi il ne la rattrape jamais (en théorie)
+les corbeaux de Hempel | une pomme verte prouve que les corbeaux sont noirs
+le paradoxe de Will Rogers | déménager fait monter deux moyennes
+le modèle de Hotelling | deux marchands de glaces sur la plage
+le test du marshmallow | attendre pour en avoir deux (débattu)
+l'effet Leidenfrost | des gouttes qui dansent sur une poêle
+la courbe de Peano | une ligne qui remplit un carré
+le paradoxe de Moravec | ce qui est facile pour nous est dur pour une machine
+le pont et la torche | quatre personnes, dix-sept minutes
+le bateau de Thésée | est-ce encore le même bateau
+les émeraudes de Goodman | le nouveau problème de l'induction
+la loi des petits nombres | pourquoi les petits villages ont les records
+l'effet Pygmalion | les attentes qui transforment (débattu)
+le flocon de Koch | un périmètre infini pour une aire finie
+l'effet Zénon quantique | observer un atome le fige
+l'expérience de Milgram | obéir à l'autorité
+le réarrangement de Riemann | changer l'ordre d'une somme change le résultat
+le jeu de Penney | pile ou face, le motif qui gagne
+l'effet de contraste | l'eau tiède entre chaud et froid
+le paradoxe de Parrondo | deux jeux perdants qui deviennent gagnants
+la dinde de Russell | l'induction qui finit mal
+le paradoxe de Solow | des ordinateurs partout sauf dans les chiffres
+le thé et le lait | quel mélange est le plus pur
+la double fente | une particule qui passe par deux fentes
+zéro puissance zéro | combien ça vaut
+les généraux byzantins | comment s'accorder malgré un traître
+l'urne de Pólya | plus on a, plus on gagne
+l'illusion de la main en caoutchouc | le cerveau adopte une fausse main
+l'expérience d'Asch | des lignes et des complices
+le paradoxe de Braess | ajouter une route ralentit tout le monde
+le problème de l'induction de Hume | le soleil se lèvera-t-il demain
+le testeur de bombes d'Elitzur-Vaidman | détecter sans toucher
+la division par zéro | pourquoi c'est interdit
+l'aversion à la perte | perdre 100 € fait plus mal que gagner 100 €
+l'escargot dans le puits | il monte de trois, redescend de deux
+la racine carrée de -1 | les nombres imaginaires
+choisir 1-2-3-4-5-6 au loto | pourquoi c'est un mauvais choix
+l'effet cocktail | entendre son prénom dans le bruit
+le paradoxe d'Ellsberg | l'urne dont on ne connaît pas le contenu
+le cygne noir | un seul cas suffit à tout renverser
+l'effet tunnel | traverser un mur
+l'effet Barnum | pourquoi l'horoscope semble vrai
+l'erreur des coûts irrécupérables | continuer parce qu'on a déjà payé
+le moine qui monte la montagne | il repasse au même endroit à la même heure
+l'identité d'Euler | pourquoi e puissance iπ vaut -1
+l'expérience de Linda | une probabilité plus grande que son tout
+le vase de Rubin | deux visages ou un vase
+les horloges dans les avions | Hafele et Keating
+le paradoxe d'Allais | deux choix cohérents qui se contredisent
+le paradoxe de la loterie | croire que chaque billet perd
+l'échiquier mutilé et les dominos | un pavage impossible
+le paradoxe de la vie privée | on s'en soucie mais on partage
+le jeu du poulet | deux voitures face à face
+l'âge des trois enfants | le produit vaut trente-six
+le problème des trois prisonniers | trois condamnés, un gracié
+la bataille navale de demain | le paradoxe d'Aristote sur l'avenir
+le paradoxe de Berry | le plus petit nombre non descriptible en vingt mots
+le paradoxe d'Ehrenfest | un disque qui tourne
+le paradoxe du menteur | « cette phrase est fausse »
+le paradoxe de la préface | un livre sans erreur
+les deux généraux | impossible d'être sûr
+le paradoxe de Grelling | le mot « hétérologique »
+la carte à deux faces | rouge, blanche ou les deux
+la conclusion répugnante de Parfit | une énorme population à peine heureuse
+la lampe de Thomson | allumer et éteindre une infinité de fois
+l'effet Zeigarnik | les tâches inachevées restent en tête
+la chasse au cerf | coopérer ou prendre le lièvre sûr
+le boulanger de Poincaré | des pains trop légers
+le paradoxe du barbier | qui rase le barbier
+le paradoxe de Moore | « il pleut mais je ne le crois pas »
+le paradoxe de Curry | une phrase qui prouve n'importe quoi
+le problème des points de Pascal | partager la mise d'un jeu interrompu
+le paradoxe de Quine | une phrase qui se cite elle-même
+le réglage fin de l'univers | une chance sur un nombre énorme
+l'incomplétude de Gödel | des vérités qu'on ne peut pas prouver
+le paradoxe de l'examen surprise | un examen qui ne peut pas être une surprise
+le fleuve d'Héraclite | on ne se baigne jamais deux fois
+le dilemme du prisonnier répété | pourquoi « donnant-donnant » gagne
+l'effet Ikea | aimer ce qu'on a monté soi-même
+la poignée de main du couple | combien en a donné sa femme
+le problème de l'arrêt de Turing | un programme qui détecte les plantages
+le cerveau de Boltzmann | un cerveau qui surgit du vide
+le théorème du singe savant | un singe tape Hamlet
+la tartine qui tombe côté beurre | la loi de Murphy et la physique
+la pierre trop lourde | le paradoxe de l'omnipotence
+le dilemme du prisonnier | trahir ou coopérer
+le paradoxe du tas | combien de cheveux pour être chauve
+le paradoxe du choix | trop d'options, moins de satisfaction (débattu)
+les trois étiquettes fausses | pommes, oranges ou mélange
+l'effet de simple exposition | aimer ce qu'on voit souvent
+l'ombre plus rapide que la lumière | un cas où rien ne triche
+l'aiguille de Buffon | calculer π en jetant des aiguilles
+l'embouteillage fantôme | des bouchons sans cause
+l'ensemble de Cantor | de longueur nulle mais infiniment riche
+le test de Turing | une machine peut-elle imiter l'humain
+le problème des 100 prisonniers | 100 boîtes, une stratégie à 31 %
+le paradoxe de la tolérance de Popper | tolérer l'intolérance
+la roue qui tourne à l'envers | l'effet stroboscopique
+la bande de Möbius | une seule face
+la marche aléatoire | pourquoi on revient toujours au point de départ
+la chaînette | la forme d'une chaîne suspendue
+le marché des citrons d'Akerlof | pourquoi les voitures d'occasion sont suspectes
+les pièces dans le noir | deux tas égaux en pile
+la dissonance cognitive | le renard et les raisins
+la bouteille de Klein | ni dedans ni dehors
+le paradoxe de l'amitié | vos amis ont en moyenne plus d'amis que vous
+le pari de Pascal | croire par intérêt
+la vitesse moyenne aller-retour | 30 à l'aller, 60 au retour
+l'autre file avance plus vite | pourquoi c'est une illusion qui a une cause
+le théorème central limite | pourquoi les tailles suivent une cloche
+le triangle à trois angles droits | la géométrie de la sphère
+l'effet cobra | les primes pour tuer les cobras
+la corde qui brûle | mesurer quarante-cinq minutes
+l'erreur de planification | pourquoi tout prend plus de temps
+la fontaine de chaîne | une chaîne qui saute hors du pot
+0,999... est égal à 1 | pourquoi ce n'est pas une approximation
+l'arbre qui tombe dans la forêt | fait-il du bruit
+la malédiction du vainqueur | gagner une enchère, c'est souvent perdre
+le soleil qui se couche le plus tôt avant le solstice | l'équation du temps
+les deux trains et la mouche | une somme infinie ou un calcul simple
+le bar El Farol | aller au bar ou rester chez soi
+les deux seaux | mesurer quatre litres avec trois et cinq
+le principe des tiroirs | deux Parisiens ont le même nombre de cheveux
+le pendule de Kapitza | un pendule qui tient à l'envers
+le paradoxe du tas de sable | à partir de quand est-ce un tas
+la bibliothèque de Babel | tous les livres possibles
+la loi de Parkinson | le travail s'étend
+la loi de Zipf | pourquoi « le » revient tout le temps
+la Terre plus proche du Soleil en janvier | pourquoi c'est l'hiver quand même
+la vallée dérangeante | quand le robot est trop réaliste
+le théorème des poignées de main | pourquoi le nombre est toujours pair
+le jour de Vénus | un jour plus long que son année
+la sagesse des foules | deviner le poids d'un bœuf
+la tablette de chocolat | combien de coupes
+le paradoxe de la Belle au bois dormant | un, deux ou trois tiers
+le monstre d'utilité de Nozick | un être qui bénéficie plus que tout le monde
+le théorème d'Arrow | aucune élection n'est parfaite
+la Lune montre toujours la même face | la rotation synchrone
+le théorème de Ramsey | six personnes à une fête
+les faux souvenirs de Loftus | un seul mot change le souvenir
+la glace qui flotte | l'eau solide plus légère que l'eau liquide
+le problème de Josèphe | à quelle place s'asseoir pour survivre
+le paradoxe du vote | un vote seul ne change rien
+les dix-sept chameaux | partager un héritage impossible
+le paradoxe de Fermi | où sont tous les extraterrestres
+la machine à expériences de Nozick | brancher sa vie sur le bonheur
+l'hypothèse de la Reine rouge | courir pour rester sur place
+le tournoi à élimination directe | combien de matchs
+les tours de Hanoï | la légende de la fin du monde
+le ciel bleu | pourquoi il est bleu et pourquoi le soir est rouge
+l'effet de vérité illusoire | répéter finit par faire croire
+la loi de Goodhart | quand la mesure devient le but
+les vaches de Newton | l'herbe qui repousse
+le paradoxe du grand-père | remonter le temps et empêcher sa propre naissance
+le voile d'ignorance de Rawls | choisir une société sans savoir qui l'on sera
+les lapins de Fibonacci | combien de lapins au bout d'un an
+le paradoxe de Peto | les baleines n'ont pas plus de cancers que les souris
+les aiguilles de l'horloge | combien de fois par jour se superposent-elles
+la dualité onde-particule | la lumière, onde ou grain
+la spirale de la mort des fourmis | des fourmis qui tournent jusqu'à mourir
+le jeu de cartes mélangé | un ordre qui n'a jamais existé avant
+les six degrés de séparation | six poignées de main pour joindre n'importe qui (débattu)
+l'épitaphe de Diophante | l'âge d'un mathématicien en énigme
+le biais du présent | 100 € aujourd'hui ou 110 € demain
+le paradoxe des jumeaux | l'un voyage, l'autre vieillit plus vite
+le problème de Gettier | savoir ou avoir de la chance
+le vide qui n'est pas vide | l'effet Casimir
+le taxi de Ramanujan | pourquoi 1729 est un nombre spécial
+le paradoxe du plancton | tant d'espèces avec si peu de ressources
+le jeu de Nim | gagner à coup sûr
+la loi de Pareto | pourquoi 20 % font 80 % du résultat
+les dés de Sicherman | deux dés différents, mêmes sommes
+le théorème du point fixe de Brouwer | la tasse de café qu'on remue
+le paradoxe de la corde et de la Terre | un mètre de plus autour du globe
+l'inversion du spectre | ton rouge est-il mon rouge
+l'effet de dotation | pourquoi on surévalue ce qu'on possède
+le train d'Einstein | l'éclair et la simultanéité
+le théorème de la boule chevelue | on ne peut pas peigner une boule
+les glaces et les noyades | corrélation n'est pas causalité
+les nombres amicaux | 220 et 284
+le coût double du sexe | pourquoi le sexe existe-t-il
+le cavalier de l'échiquier | visiter toutes les cases
+la flèche de Zénon | une flèche qui ne bouge jamais
+Mary dans la chambre noire et blanche | apprendre ce qu'est le rouge
+le vaisseau figé à l'horizon d'un trou noir | ce qu'on voit et ce qu'on vit
+le théorème du sandwich au jambon | couper en deux parts égales
+l'illusion lunaire | la Lune plus grosse près de l'horizon
+la loi des très grands nombres | pourquoi les coïncidences sont normales
+le principe d'équivalence d'Einstein | un ascenseur qui accélère
+le paradoxe de l'altruisme | pourquoi aider les autres
+les fourmis sur un bâton | elles se croisent et rebroussent chemin
+le théorème de la table bancale | une table qui finit par être stable
+la spaghettification | tomber dans un trou noir
+le paradoxe de Gabriel | une corne de peinture infinie
+le zombie philosophique | quelqu'un sans conscience qui agit pareil
+le paradoxe du mot de passe | pourquoi un mot de passe long bat un mot de passe compliqué
+la main chaude au basket | le tireur en feu existe-t-il (débattu)
+l'effet papillon | un battement d'ailes et la météo
+les nombres premiers sans fin | pourquoi il n'y a pas de dernier
+le biais de confirmation | on ne cherche que ce qui nous donne raison
+le paradoxe de l'information du voyageur temporel | un livre sans auteur
+le problème des chapeaux | des prisonniers et des chapeaux noirs ou blancs
+le dilemme d'Euthyphron | le bien est-il bien parce que les dieux l'aiment
+le jeu de la confiance | envoyer de l'argent à un inconnu
+la chaîne d'or de l'hôtel | couper un seul maillon
+l'irrationalité de racine de deux | une longueur impossible à écrire
+la crue centennale | pourquoi elle peut arriver deux années de suite
+le carrelage de Penrose | un motif qui ne se répète jamais
+le paradoxe de l'oiseau sur le fil à haute tension | pourquoi il ne risque rien
+le triangle de Sierpiński | un motif né du hasard
+l'effet de la tache aveugle | voir ses biais chez les autres
+le paradoxe des enchères à un euro | comment perdre en voulant gagner
+le couteau de Lichtenberg | on change la lame et le manche
+la malédiction des ressources | pays riches en pétrole, pays pauvres
+les deux œufs et la tour | combien de lancers
+l'homme moyen n'existe pas | les pilotes de l'armée de l'air américaine
+l'argument diagonal de Cantor | une liste qui oublie toujours un nombre
+le paradoxe de l'escalier | π serait égal à 4
+l'avion et le vent | le vent rallonge toujours l'aller-retour
+le paradoxe de Condorcet | trois électeurs, trois préférences en boucle
+la phrase aux trois erreurs | « cette phrase contient trois erreurs »
+le carré qui disparaît | le puzzle de Curry
+l'illusion de transparence | croire que les autres lisent nos émotions
+la moyenne et la médiane | Bill Gates entre dans un bar
+l'hypothèse du continu | un infini entre deux infinis
+le paradoxe du vote utile | voter pour qui on n'aime pas
+le menteur sur l'île des chevaliers et des valets | qui dit vrai
+la pierre jetée du bateau | le niveau de l'eau monte-t-il
+le problème de l'an 2038 | le jour où le temps déborde
+64 égale 65 | la dissection de l'échiquier
+le paradoxe de la planche de Galton | pourquoi tout finit en cloche
+le paradoxe de l'identité personnelle | le cerveau divisé en deux
+le paradoxe de Lord | deux statisticiens, deux réponses
+l'équation de Drake | combien de civilisations dans la galaxie
+le glaçon qui fond | le niveau du verre monte-t-il
+le problème du voyageur de commerce | l'itinéraire le plus court
+l'effet Dunning-Kruger | savoir ce qu'on ne sait pas (débattu)
+le problème du partage du gâteau | je coupe, tu choisis
+l'énigme du sphinx | quatre pattes, deux pattes, trois pattes
+le paradoxe de l'œuf et de la poule | la réponse que donne l'évolution
+le paradoxe de la mort d'Épicure | pourquoi la mort ne nous concernerait pas
+P contre NP | vérifier est plus facile que trouver
+le problème du cadeau de Noël tiré au sort | combien de personnes reçoivent leur propre cadeau
+la spirale d'Ulam | des nombres premiers qui dessinent des lignes
+le ballon d'hélium dans la voiture | il part dans le sens inverse
+le paradoxe de la distance de la fourmi sur l'élastique | elle atteint toujours le bout
+l'effet Lindy | plus c'est vieux, plus ça dure
+le problème des cinq pirates | partager 100 pièces d'or
+les quatre fourmis du carré | elles se rencontrent au centre
+le paradoxe du joueur (la martingale) | doubler la mise jusqu'à gagner
+le rasoir d'Ockham | l'explication la plus simple est-elle la bonne
+le paradoxe de la pièce truquée | comment tirer à pile ou face avec une pièce biaisée
+le dernier théorème de Fermat | une marge trop petite
+le paradoxe de la rotation de la Terre | on tourne vite sans rien sentir
+le nombre d'or | ce qui est vrai et ce qui est un mythe
