@@ -1,0 +1,75 @@
+name: Publier le Short braquage (1 par jour)
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 15:00 UTC : publication du jour
+    - cron: "0 19 * * *"   # filet de sécurité : ne fait rien si le Short du jour est déjà publié
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Test : fabrique le Short SANS le publier"
+        type: boolean
+        default: true
+      privacy:
+        description: "Visibilité du Short publié"
+        type: choice
+        options: [public, unlisted, private]
+        default: public
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: publish-heist
+  cancel-in-progress: false
+
+jobs:
+  heist:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+      PRIVACY: ${{ inputs.privacy || 'public' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer ffmpeg et polices
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+
+      - name: Installer les dépendances Python
+        run: pip install -r requirements.txt
+
+      - name: Fabriquer et publier le Short
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MODELS_TOKEN: ${{ secrets.MODELS_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          YT3_CLIENT_ID: ${{ secrets.YT3_CLIENT_ID }}
+          YT3_CLIENT_SECRET: ${{ secrets.YT3_CLIENT_SECRET }}
+          YT3_REFRESH_TOKEN: ${{ secrets.YT3_REFRESH_TOKEN }}
+        run: python heist_pipeline.py
+
+      - name: Garder le Short de test
+        if: ${{ env.DRY_RUN == 'true' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: short-braquage-test
+          path: out/
+          retention-days: 3
+
+      - name: Enregistrer l'histoire publiée (anti-doublons)
+        if: ${{ env.DRY_RUN != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add heist_published.txt
+          git diff --cached --quiet || (git commit -m "Short braquage publié" && git pull --rebase origin main && git push)
+
