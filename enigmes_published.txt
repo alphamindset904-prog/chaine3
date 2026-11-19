@@ -2,3 +2,4 @@
 2026-11-16 | le paradoxe de Monty Hall | trois portes et un présentateur
 2026-11-16 | le paradoxe de la boîte de Bertrand | trois boîtes, deux pièces
 2026-11-18 | le paradoxe de Banach-Tarski | une boule qui devient deux boules
+2026-11-19 | le paradoxe du crocodile | l'enfant et le crocodile
