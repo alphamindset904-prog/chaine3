@@ -4,3 +4,4 @@
 2026-11-18 | le paradoxe de Banach-Tarski | une boule qui devient deux boules
 2026-11-19 | le paradoxe du crocodile | l'enfant et le crocodile
 2026-11-20 | le paradoxe d'Olbers | pourquoi la nuit est noire
+2026-11-21 | le dilemme du voyageur | deux valises, une échelle de prix
