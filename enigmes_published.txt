@@ -5,3 +5,4 @@
 2026-11-19 | le paradoxe du crocodile | l'enfant et le crocodile
 2026-11-20 | le paradoxe d'Olbers | pourquoi la nuit est noire
 2026-11-21 | le dilemme du voyageur | deux valises, une échelle de prix
+2026-11-22 | la tâche de sélection de Wason | quatre cartes, une seule bonne réponse
