@@ -3,3 +3,4 @@
 2026-11-20 | Le braquage de la banque qui finit mal | Le Renard vide le coffre de la banque de quartier mais emporte le mauvais butin. | egalite
 2026-11-21 | Le braquage du casino qui tourne au vinaigre | Le Renard dérobe tous les jetons du casino le plus luxueux. | mouchoir
 2026-11-22 | Le braquage de la bijouterie aux deux renards | Le Renard dérobe le collier royal mais se fait coincer par un Inspecteur Mouchoir qui partage son secret. | renard
+2026-11-23 | Le braquage pop-corn du cinéma | Le Renard dérobe le coffre du cinéma mais rate son plan à cause d'une séance trop émouvante. | renard
