@@ -7,3 +7,4 @@
 2026-11-21 | le dilemme du voyageur | deux valises, une échelle de prix
 2026-11-22 | la tâche de sélection de Wason | quatre cartes, une seule bonne réponse
 2026-11-25 | le loup, la chèvre et le chou | traverser la rivière
+2026-11-27 | la compression sans perte | pourquoi on ne peut pas tout compresser
