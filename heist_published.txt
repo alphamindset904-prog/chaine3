@@ -8,3 +8,4 @@
 2026-11-25 | Le braquage du convoi blindé | Le Renard dévalise un convoi blindé ultra-sécurisé mais se fait doubler par le cerveau le plus inattendu. | egalite
 2026-11-26 | Le braquage du faux tableau au musée | Le Renard dérobe un chef-d'œuvre sous les yeux de l'Inspecteur Mouchoir. | renard
 2026-11-27 | Le braquage du coffre d'hôtel | Le Renard dérobe le contenu du coffre-fort de l'hôtel mais emporte le mauvais objet. | renard
+2026-11-28 | Le Renard saute du cinquantième étage sans parachute | Cerné au sommet d'une tour de verre, le Renard s'échappe grâce à une idée complètement idiote de Biscuit. | renard
